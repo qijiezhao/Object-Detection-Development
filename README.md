@@ -70,6 +70,7 @@
 - Udacity Self-driving Car [1](https://github.com/CarND-Capstone-Defender/car-nd-capstone) [2](https://github.com/byronrwth/Udacity-SelfDrivingCar-Term2) [YOLO](https://github.com/aashay96/YOLO-Udacity) [traffic light detection](https://github.com/awoodacrew/tldetect)
 [final project](https://github.com/AndysDeepAbstractions/Early_Birds_CarND-Capstone)
 
+- [RFBNet](https://github.com/ruinmessi/RFBNet)
 - TBA
 - 
 
@@ -77,7 +78,12 @@
 
 ### 4.Extra Reading Notes
 
+- Detection Summary Until 17.1 [csdn](http://blog.csdn.net/zhang11wu4/article/details/53967688)
+- Relation Networks for Object Detection [zhihu](https://zhuanlan.zhihu.com/p/31742364)
+- SSD details [zhihu](https://zhuanlan.zhihu.com/p/31427288)
 
+- Multi-view 3D detection [csdn](http://blog.csdn.net/williamyi96/article/details/78043014)
+[csdn](https://www.baidu.com/link?url=7MyT1jpd6AUtAcQ6wPKZAkAGSCySPSstaKNPJW2d__E2DVMqMS7Gkg3AtwhkLlDlATmB4c1-zx1B9sAllKpfxiTRVteQYnONnA1DTnahB8y&wd=&eqid=a90695100000bc08000000035a561a78)
 
 ------
 
@@ -100,6 +106,9 @@ Detection with Critical Supervision](https://arxiv.org/pdf/1711.01043.pdf)
 - [Single Multi-feature detector for Amodal 3D Object Detection in RGB-D Images](https://arxiv.org/pdf/1711.00238.pdf)
 - [Cascade Region Proposal and Global Context for Deep
 Object Detection](https://arxiv.org/pdf/1710.10749.pdf)
+
+- [Relation networks](https://arxiv.org/pdf/1711.11575.pdf)
+- 
 
 #### b. For car detection especially 
 - TBA
