@@ -52,7 +52,7 @@
 - Faster-rcnn [MatCAFFE](https://github.com/ShaoqingRen/faster_rcnn),[PyCAFFE](https://github.com/rbgirshick/py-faster-rcnn),[Tensorflow](https://github.com/smallcorgi/Faster-RCNN_TF),[PyTorch](https://github.com/longcw/faster_rcnn_pytorch),[mx-Net](https://github.com/precedenceguo/mx-rcnn)
 - Deformable-NN Det [mx-Net](https://github.com/msracver/Deformable-ConvNets),[PyTorch](https://github.com/oeway/pytorch-deform-conv)
 - R-FCN [MatCAFFE](https://github.com/daijifeng001/R-FCN),[PyCAFFE](https://github.com/daijifeng001/R-FCN),[PyTorch](https://github.com/PureDiors/pytorch_RFCN),[CAFFE-MultiGPU](https://github.com/bharatsingh430/py-R-FCN-multiGPU)
-- SSD [PyTorch](https://github.com/amdegroot/ssd.pytorch),[mx-net](https://github.com/amdegroot/ssd.pytorch)
+- SSD [PyTorch](https://github.com/amdegroot/ssd.pytorch),[mx-net](https://github.com/amdegroot/ssd.pytorch),[SSD512-pytorch](https://github.com/lopuhin/ssd.pytorch)
 - YOLO [tensorflow](https://github.com/gliese581gg/YOLO_tensorflow),[PyTorch](),[CAFFE](https://github.com/philipperemy/yolo-9000),[CAFFE](https://github.com/xingwangsfu/caffe-yolo)
 - YOLO2 [PyTorch](https://github.com/longcw/yolo2-pytorch),[PyTorch](https://github.com/marvis/pytorch-yolo2)
 - DSOD [PyCAFFE](https://github.com/szq0214/DSOD)
@@ -71,8 +71,9 @@
 [final project](https://github.com/AndysDeepAbstractions/Early_Birds_CarND-Capstone)
 
 - [RFBNet](https://github.com/ruinmessi/RFBNet)
-- TBA
-- 
+- MV3D [tensorflow](https://github.com/bostondiditeam/MV3D)
+- Depth and Ego-motion prediction [pytorch](https://github.com/ClementPinard/SfmLearner-Pytorch)
+- Deeply fuse Net [pytorch](https://github.com/zlmzju/fusenet)
 
 ------
 
@@ -84,6 +85,10 @@
 
 - Multi-view 3D detection [csdn](http://blog.csdn.net/williamyi96/article/details/78043014)
 [csdn](https://www.baidu.com/link?url=7MyT1jpd6AUtAcQ6wPKZAkAGSCySPSstaKNPJW2d__E2DVMqMS7Gkg3AtwhkLlDlATmB4c1-zx1B9sAllKpfxiTRVteQYnONnA1DTnahB8y&wd=&eqid=a90695100000bc08000000035a561a78)
+
+- semi-supervised learning on Image [zhihu](https://zhuanlan.zhihu.com/p/32658795?group_id=932637377097244672)
+- CycleGAN,DualGAN,DiscoGAN [zhihu](https://zhuanlan.zhihu.com/p/32800494?utm_source=wechat_session&utm_medium=social)
+- 人脸遮挡问题的处理 [旷视,wechat](http://mp.weixin.qq.com/s/QJm7YoCYmiF0dX8uac5w4Q)
 
 ------
 
@@ -109,6 +114,7 @@ Object Detection](https://arxiv.org/pdf/1710.10749.pdf)
 
 - [Relation networks](https://arxiv.org/pdf/1711.11575.pdf)
 - 
+- [House 3D, a dataset](https://github.com/facebookresearch/House3D)
 
 #### b. For car detection especially 
 - TBA
