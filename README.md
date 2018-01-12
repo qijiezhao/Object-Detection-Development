@@ -94,27 +94,35 @@
 
 ### 5.Very Recent Works
 
-#### a. For object detection
+#### a. For 2D object detection
 - [Feature Selective Networks for Object Detection](https://arxiv.org/pdf/1711.08879.pdf)
-- [Frustum PointNets for 3D Object Detection from RGB-D Data](https://arxiv.org/pdf/1711.08488.pdf)
+
 - [MegDet: A Large Mini-Batch Object Detector](https://arxiv.org/pdf/1711.07240.pdf)
 - [Deep Image Prior](https://arxiv.org/pdf/1711.10925.pdf)
-- [Non-Local](https://arxiv.org/pdf/1711.07971.pdf)
+
 - [An Analysis of Scale Invariance in Object Detection – SNIP](https://arxiv.org/pdf/1711.08189.pdf)
 - [Receptive Field Block Net for Accurate and Fast Object Detection](https://arxiv.org/pdf/1711.07767.pdf)
 - [Single-Shot Refinement Neural Network for Object Detection](https://arxiv.org/pdf/1711.06897.pdf)
-- [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://arxiv.org/pdf/1711.06396.pdf)
+
 - [Contextual Object Detection with a Few Relevant Neighbors](https://arxiv.org/pdf/1711.05705.pdf)
 - [Dynamic Zoom-in Network for Fast Object Detection in Large Images](https://arxiv.org/pdf/1711.05187.pdf)
 - [A Taught-Obesrve-Ask (TOA) Method for Object
 Detection with Critical Supervision](https://arxiv.org/pdf/1711.01043.pdf)
-- [Single Multi-feature detector for Amodal 3D Object Detection in RGB-D Images](https://arxiv.org/pdf/1711.00238.pdf)
-- [Cascade Region Proposal and Global Context for Deep
-Object Detection](https://arxiv.org/pdf/1710.10749.pdf)
+
+- [Cascade Region Proposal and Global Context for Deep Object Detection](https://arxiv.org/pdf/1710.10749.pdf)
 
 - [Relation networks](https://arxiv.org/pdf/1711.11575.pdf)
-- 
-- [House 3D, a dataset](https://github.com/facebookresearch/House3D)
+#### b. For 3D object detection
 
-#### b. For car detection especially 
+- [House 3D, a dataset](https://github.com/facebookresearch/House3D)
+- [Frustum PointNets for 3D Object Detection from RGB-D Data](https://arxiv.org/pdf/1711.08488.pdf)
+- [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://arxiv.org/pdf/1711.06396.pdf)
+- [Single Multi-feature detector for Amodal 3D Object Detection in RGB-D Images](https://arxiv.org/pdf/1711.00238.pdf)
+- 
+#### c. For car detection especially 
 - TBA
+- 
+
+#### d. Other useful tools
+
+- [Non-Local](https://arxiv.org/pdf/1711.07971.pdf)
