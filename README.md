@@ -56,7 +56,11 @@
 - YOLO [tensorflow](https://github.com/gliese581gg/YOLO_tensorflow),[PyTorch](),[CAFFE](https://github.com/philipperemy/yolo-9000),[CAFFE](https://github.com/xingwangsfu/caffe-yolo)
 - YOLO2 [PyTorch](https://github.com/longcw/yolo2-pytorch),[PyTorch](https://github.com/marvis/pytorch-yolo2)
 - DSOD [PyCAFFE](https://github.com/szq0214/DSOD)
-- 
+- RetinaNet [pytorch](https://github.com/c0nn3r/RetinaNet)
+
+-
+-
+
 - Vehicle Detection & Tracking [1](https://github.com/kkufieta/CarND-Vehicle-Detection), [2](https://github.com/LeotisBuchanan/udacity_vehicle_detection), [3]
 
 - Vehicle Detection and Tracking using HOG, CNN [1](https://github.com/xmprise/Vehicle_Detection_and_Tracking)
@@ -112,6 +116,10 @@ Detection with Critical Supervision](https://arxiv.org/pdf/1711.01043.pdf)
 - [Cascade Region Proposal and Global Context for Deep Object Detection](https://arxiv.org/pdf/1710.10749.pdf)
 
 - [Relation networks](https://arxiv.org/pdf/1711.11575.pdf)
+- [Single Shot Text Detector with Regional Attention](https://arxiv.org/pdf/1709.00138.pdf)
+- [DSSD](https://arxiv.org/pdf/1701.06659.pdf)
+- [RRC](https://arxiv.org/pdf/1704.05776.pdf)
+
 #### b. For 3D object detection
 
 - [House 3D, a dataset](https://github.com/facebookresearch/House3D)
