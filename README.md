@@ -18,12 +18,15 @@
 - 2016 Inside-Outside Net_Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks
 - 2016 **R-FCN** --[Object Detection via Region-based Fully Convolutional Networks](https://arxiv.org/pdf/1605.06409)
 - 2016 **SSD** --[SSD: Single-Shot MultiBox Detector](https://arxiv.org/pdf/1512.02325)
-
+- 2016 **PVANet** --[PVANET: Deep but Lightweight Neural Networks for
+Real-time Object Detection](https://arxiv.org/pdf/1608.08021v1.pdf)
 - 2016 **YOLO9000** --[YOLO9000: better,faster,stronger](https://arxiv.org/pdf/1612.08242)
 - 2016 **YOLO** --[You Only Look Once-Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640)
 - 2017 **A-Fast-RCNN** --[A-Fast-RCNN_Hard Positive Generation via Adversary for Object Detection](hhttps://arxiv.org/pdf/1704.03414)
 - 2017 [Speed_Accuracy trade-offs for modern convolutional object detectors](https://arxiv.org/pdf/1611.10012)
+- 2017 **DSSD** --[DSSD : Deconvolutional Single Shot Detector](https://arxiv.org/pdf/1701.06659.pdf)
 - 2017 **DeformableCNN** --[Deformable Convolutional Networks](https://arxiv.org/pdf/1703.06211)
+- 2017 **FPN** --[Feature Pyramid Networks for Object Detection](https://arxiv.org/pdf/1612.03144.pdf)
 - 2017 **DSOD** --[DSOD: Learning Deeply Supervised Object Detectors from Scratch](https://arxiv.org/pdf/1708.01241)
 - 2017 **Focal Loss** --[Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002)
 - 2017 **Mask R-CNN** --[Mask R-CNN](https://arxiv.org/pdf/1703.06870)
