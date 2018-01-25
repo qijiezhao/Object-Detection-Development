@@ -96,7 +96,7 @@ Real-time Object Detection](https://arxiv.org/pdf/1608.08021v1.pdf)
 - semi-supervised learning on Image [zhihu](https://zhuanlan.zhihu.com/p/32658795?group_id=932637377097244672)
 - CycleGAN,DualGAN,DiscoGAN [zhihu](https://zhuanlan.zhihu.com/p/32800494?utm_source=wechat_session&utm_medium=social)
 - 人脸遮挡问题的处理 [旷视,wechat](http://mp.weixin.qq.com/s/QJm7YoCYmiF0dX8uac5w4Q)
-
+- 相机矩阵，内参数与外参数 [csdn](http://blog.csdn.net/zb1165048017/article/details/71104241)
 ------
 
 ### 5.Very Recent Works
