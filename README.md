@@ -129,7 +129,10 @@ Detection with Critical Supervision](https://arxiv.org/pdf/1711.01043.pdf)
 - [Frustum PointNets for 3D Object Detection from RGB-D Data](https://arxiv.org/pdf/1711.08488.pdf)
 - [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://arxiv.org/pdf/1711.06396.pdf)
 - [Single Multi-feature detector for Amodal 3D Object Detection in RGB-D Images](https://arxiv.org/pdf/1711.00238.pdf)
-- 
+- [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/pdf/1612.00593.pdf)
+- [3D Object Proposals using Stereo Imagery for Accurate Object Class Detection](https://arxiv.org/pdf/1608.07711.pdf)
+- [SSD-6D: Making RGB-Based 3D Detection and 6D Pose Estimation Great Again](https://arxiv.org/pdf/1711.10006.pdf)
+
 #### c. For car detection especially 
 - [PointFusion: Deep Sensor Fusion for 3D Bounding Box Estimation](https://arxiv.org/pdf/1711.10871.pdf)
 - [Joint 3D Proposal Generation and Object Detection from View Aggregation](https://arxiv.org/pdf/1712.02294.pdf)
@@ -137,7 +140,11 @@ Detection with Critical Supervision](https://arxiv.org/pdf/1711.01043.pdf)
 View Camera Image for Deep Object Detection](https://arxiv.org/pdf/1711.06703.pdf)
 - [A Joint 3D-2D based Method for Free Space Detection on Roads](https://arxiv.org/pdf/1711.02144.pdf)
 - [PointCNN](https://arxiv.org/pdf/1801.07791.pdf)
+-
+-
 
 #### d. Other useful tools
 
 - [Non-Local](https://arxiv.org/pdf/1711.07971.pdf)
+- [Left-Right Skip-DenseNets for Coarse-to-Fine Object Categorization](https://arxiv.org/pdf/1710.10386.pdf)
+- [Learning by Asking Questions](https://arxiv.org/pdf/1712.01238.pdf)
