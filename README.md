@@ -131,8 +131,12 @@ Detection with Critical Supervision](https://arxiv.org/pdf/1711.01043.pdf)
 - [Single Multi-feature detector for Amodal 3D Object Detection in RGB-D Images](https://arxiv.org/pdf/1711.00238.pdf)
 - 
 #### c. For car detection especially 
-- TBA
-- 
+- [PointFusion: Deep Sensor Fusion for 3D Bounding Box Estimation](https://arxiv.org/pdf/1711.10871.pdf)
+- [Joint 3D Proposal Generation and Object Detection from View Aggregation](https://arxiv.org/pdf/1712.02294.pdf)
+- [Fusing Bird View LIDAR Point Cloud and Front
+View Camera Image for Deep Object Detection](https://arxiv.org/pdf/1711.06703.pdf)
+- [A Joint 3D-2D based Method for Free Space Detection on Roads](https://arxiv.org/pdf/1711.02144.pdf)
+- [PointCNN](https://arxiv.org/pdf/1801.07791.pdf)
 
 #### d. Other useful tools
 
