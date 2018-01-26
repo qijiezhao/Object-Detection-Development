@@ -123,6 +123,7 @@ Detection with Critical Supervision](https://arxiv.org/pdf/1711.01043.pdf)
 - [Single Shot Text Detector with Regional Attention](https://arxiv.org/pdf/1709.00138.pdf)
 - [DSSD](https://arxiv.org/pdf/1701.06659.pdf)
 - [RRC](https://arxiv.org/pdf/1704.05776.pdf)
+- [Gated DSOD](https://arxiv.org/pdf/1712.00886.pdf)
 
 #### b. For 3D object detection
 
