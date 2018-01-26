@@ -142,7 +142,8 @@ View Camera Image for Deep Object Detection](https://arxiv.org/pdf/1711.06703.pd
 - [A Joint 3D-2D based Method for Free Space Detection on Roads](https://arxiv.org/pdf/1711.02144.pdf)
 - [PointCNN](https://arxiv.org/pdf/1801.07791.pdf)
 -
--
+- [BoxCars: Improving Fine-Grained Recognition of Vehicles using 3D Bounding Boxes in Traffic Surveillance](https://arxiv.org/pdf/1703.00686.pdf)
+- [3D Bounding Box Estimation Using Deep Learning and Geometry](http://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1612.00496)
 
 #### d. Other useful tools
 
