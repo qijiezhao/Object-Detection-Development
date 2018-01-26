@@ -89,7 +89,7 @@ Real-time Object Detection](https://arxiv.org/pdf/1608.08021v1.pdf)
 - Detection Summary Until 17.1 [csdn](http://blog.csdn.net/zhang11wu4/article/details/53967688)
 - Relation Networks for Object Detection [zhihu](https://zhuanlan.zhihu.com/p/31742364)
 - SSD details [zhihu](https://zhuanlan.zhihu.com/p/31427288)
-
+- 详解SSD原理，细节[zhihu](https://zhuanlan.zhihu.com/p/29410169)
 - Multi-view 3D detection [csdn](http://blog.csdn.net/williamyi96/article/details/78043014)
 [csdn](https://www.baidu.com/link?url=7MyT1jpd6AUtAcQ6wPKZAkAGSCySPSstaKNPJW2d__E2DVMqMS7Gkg3AtwhkLlDlATmB4c1-zx1B9sAllKpfxiTRVteQYnONnA1DTnahB8y&wd=&eqid=a90695100000bc08000000035a561a78)
 
