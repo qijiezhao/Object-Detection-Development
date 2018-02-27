@@ -89,16 +89,14 @@ Real-time Object Detection](https://arxiv.org/pdf/1608.08021v1.pdf)
 - Detection Summary Until 17.1 [csdn](http://blog.csdn.net/zhang11wu4/article/details/53967688)
 - Relation Networks for Object Detection [zhihu](https://zhuanlan.zhihu.com/p/31742364)
 - SSD details [zhihu](https://zhuanlan.zhihu.com/p/31427288)
-- 详解SSD原理，细节[zhihu](https://zhuanlan.zhihu.com/p/29410169)
+
 - Multi-view 3D detection [csdn](http://blog.csdn.net/williamyi96/article/details/78043014)
 [csdn](https://www.baidu.com/link?url=7MyT1jpd6AUtAcQ6wPKZAkAGSCySPSstaKNPJW2d__E2DVMqMS7Gkg3AtwhkLlDlATmB4c1-zx1B9sAllKpfxiTRVteQYnONnA1DTnahB8y&wd=&eqid=a90695100000bc08000000035a561a78)
 
 - semi-supervised learning on Image [zhihu](https://zhuanlan.zhihu.com/p/32658795?group_id=932637377097244672)
 - CycleGAN,DualGAN,DiscoGAN [zhihu](https://zhuanlan.zhihu.com/p/32800494?utm_source=wechat_session&utm_medium=social)
 - 人脸遮挡问题的处理 [旷视,wechat](http://mp.weixin.qq.com/s/QJm7YoCYmiF0dX8uac5w4Q)
-- 相机矩阵，内参数与外参数 [csdn](http://blog.csdn.net/zb1165048017/article/details/71104241)
-- 3D BBox 检测 [zhihu](https://zhuanlan.zhihu.com/p/32247648)
-- Gated DSOD [zhihu](https://zhuanlan.zhihu.com/p/32134637)
+
 ------
 
 ### 5.Very Recent Works
@@ -124,7 +122,6 @@ Detection with Critical Supervision](https://arxiv.org/pdf/1711.01043.pdf)
 - [Single Shot Text Detector with Regional Attention](https://arxiv.org/pdf/1709.00138.pdf)
 - [DSSD](https://arxiv.org/pdf/1701.06659.pdf)
 - [RRC](https://arxiv.org/pdf/1704.05776.pdf)
-- [Gated DSOD](https://arxiv.org/pdf/1712.00886.pdf)
 
 #### b. For 3D object detection
 
@@ -132,10 +129,11 @@ Detection with Critical Supervision](https://arxiv.org/pdf/1711.01043.pdf)
 - [Frustum PointNets for 3D Object Detection from RGB-D Data](https://arxiv.org/pdf/1711.08488.pdf)
 - [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://arxiv.org/pdf/1711.06396.pdf)
 - [Single Multi-feature detector for Amodal 3D Object Detection in RGB-D Images](https://arxiv.org/pdf/1711.00238.pdf)
-- [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/pdf/1612.00593.pdf)
-- [3D Object Proposals using Stereo Imagery for Accurate Object Class Detection](https://arxiv.org/pdf/1608.07711.pdf)
-- [SSD-6D: Making RGB-Based 3D Detection and 6D Pose Estimation Great Again](https://arxiv.org/pdf/1711.10006.pdf)
-
+- 
+-[Salient Object Detection by Lossless Feature Reflection](https://arxiv.org/pdf/1802.06527.pdf)
+-[Tiny SSD: A Tiny Single-shot Detection Deep Convolutional Neural Network for
+Real-time Embedded Object Detection](https://arxiv.org/pdf/1802.06488.pdf)
+-[]()
 #### c. For car detection especially 
 - [PointFusion: Deep Sensor Fusion for 3D Bounding Box Estimation](https://arxiv.org/pdf/1711.10871.pdf)
 - [Joint 3D Proposal Generation and Object Detection from View Aggregation](https://arxiv.org/pdf/1712.02294.pdf)
@@ -143,12 +141,7 @@ Detection with Critical Supervision](https://arxiv.org/pdf/1711.01043.pdf)
 View Camera Image for Deep Object Detection](https://arxiv.org/pdf/1711.06703.pdf)
 - [A Joint 3D-2D based Method for Free Space Detection on Roads](https://arxiv.org/pdf/1711.02144.pdf)
 - [PointCNN](https://arxiv.org/pdf/1801.07791.pdf)
--
-- [BoxCars: Improving Fine-Grained Recognition of Vehicles using 3D Bounding Boxes in Traffic Surveillance](https://arxiv.org/pdf/1703.00686.pdf)
-- [3D Bounding Box Estimation Using Deep Learning and Geometry](http://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1612.00496)
 
 #### d. Other useful tools
 
 - [Non-Local](https://arxiv.org/pdf/1711.07971.pdf)
-- [Left-Right Skip-DenseNets for Coarse-to-Fine Object Categorization](https://arxiv.org/pdf/1710.10386.pdf)
-- [Learning by Asking Questions](https://arxiv.org/pdf/1712.01238.pdf)
