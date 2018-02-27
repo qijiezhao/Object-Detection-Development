@@ -130,10 +130,10 @@ Detection with Critical Supervision](https://arxiv.org/pdf/1711.01043.pdf)
 - [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://arxiv.org/pdf/1711.06396.pdf)
 - [Single Multi-feature detector for Amodal 3D Object Detection in RGB-D Images](https://arxiv.org/pdf/1711.00238.pdf)
 - 
--[Salient Object Detection by Lossless Feature Reflection](https://arxiv.org/pdf/1802.06527.pdf)
--[Tiny SSD: A Tiny Single-shot Detection Deep Convolutional Neural Network for
+- **New** [Salient Object Detection by Lossless Feature Reflection](https://arxiv.org/pdf/1802.06527.pdf)
+- **New** [Tiny SSD: A Tiny Single-shot Detection Deep Convolutional Neural Network for
 Real-time Embedded Object Detection](https://arxiv.org/pdf/1802.06488.pdf)
--[]()
+
 #### c. For car detection especially 
 - [PointFusion: Deep Sensor Fusion for 3D Bounding Box Estimation](https://arxiv.org/pdf/1711.10871.pdf)
 - [Joint 3D Proposal Generation and Object Detection from View Aggregation](https://arxiv.org/pdf/1712.02294.pdf)
