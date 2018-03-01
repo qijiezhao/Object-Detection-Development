@@ -122,6 +122,7 @@ Detection with Critical Supervision](https://arxiv.org/pdf/1711.01043.pdf)
 - [Single Shot Text Detector with Regional Attention](https://arxiv.org/pdf/1709.00138.pdf)
 - [DSSD](https://arxiv.org/pdf/1701.06659.pdf)
 - [RRC](https://arxiv.org/pdf/1704.05776.pdf)
+- [GRP-DSOD](https://arxiv.org/pdf/1712.00886.pdf)
 -
 - **New** [Salient Object Detection by Lossless Feature Reflection](https://arxiv.org/pdf/1802.06527.pdf)
 - **New** [Tiny SSD: A Tiny Single-shot Detection Deep Convolutional Neural Network for
